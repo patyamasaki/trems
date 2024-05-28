@@ -48,11 +48,13 @@
   "addons": [
     "@eeacms/volto-accordion-block",
     "@kitconcept/volto-slider-block",
+    "@plone-collective/volto-authomatic",
     "@eeacms/volto-matomo"
   ],
   "dependencies": {
     "@eeacms/volto-accordion-block": "*",
     "@eeacms/volto-matomo": "*",
-    "@kitconcept/volto-slider-block": "*"
+    "@kitconcept/volto-slider-block": "*",
+    "@plone-collective/volto-authomatic": "*"
   }
 }
