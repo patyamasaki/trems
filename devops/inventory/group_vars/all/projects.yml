@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store trems-patyamasaki.tangrama.com.br postgres data
+  - path: "/srv/trems/data"
+    owner: 999
+    group: 999
+    mode: "0750"

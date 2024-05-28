@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "patricia.yamasaki@tre-ms.jus.br",
+      "properties": {
+        "fullname": "Treinamento TRE-MS",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "trems"
+    }
+  ],
+    "team": [
+  ]
+}
